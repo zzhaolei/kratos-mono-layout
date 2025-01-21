@@ -2,9 +2,8 @@ package main
 
 import (
 	"flag"
+	"github.com/go-kratos/kratos-layout/app/greeter/internal/conf"
 	"os"
-
-	"github.com/go-kratos/kratos-layout/internal/conf"
 
 	"github.com/go-kratos/kratos/v2"
 	"github.com/go-kratos/kratos/v2/config"
